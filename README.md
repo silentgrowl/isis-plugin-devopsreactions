@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post the latest daily kitten into a room by typing ```!devopsreactions``` or ```!devops``` in chat.
+
+## Links
+
+* [isis-plugin-devopsreactions on RubyGems](https://rubygems.org/gems/isis-plugin-devopsreactions)
